@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+stats_pit.csv
+play_info.csv
+pit_detaset.csv
