@@ -7,6 +7,8 @@ test_play_info.csv
 test_stats_pit.csv
 pitch_distribution_12players.csv
 pitcher_summary_12players.csv
+pitcher_surprise_analysis.csv
+pitcher_surprise_yearly.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
