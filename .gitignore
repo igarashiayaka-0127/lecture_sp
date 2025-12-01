@@ -2,13 +2,14 @@
 stats_pit.csv
 play_info.csv
 
-# test files
+#files
 test_play_info.csv
 test_stats_pit.csv
 pitch_distribution_12players.csv
 pitcher_summary_12players.csv
 pitcher_surprise_analysis.csv
 pitcher_surprise_yearly.csv
+pitcher_distribution_12players.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
