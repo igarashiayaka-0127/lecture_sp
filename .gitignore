@@ -219,7 +219,12 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+
+# csv files
+*.csv
+
 stats_pit.csv
 play_info.csv
 play_info_dataset.csv
 stats_pit_dataset.csv
+
