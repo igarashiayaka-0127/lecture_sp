@@ -1,3 +1,16 @@
+# CSV files
+stats_pit.csv
+play_info.csv
+
+#files
+test_play_info.csv
+test_stats_pit.csv
+pitch_distribution_12players.csv
+pitcher_summary_12players.csv
+pitcher_surprise_analysis.csv
+pitcher_surprise_yearly.csv
+pitcher_distribution_12players.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -206,5 +219,12 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+
 # csv files
 *.csv
+
+stats_pit.csv
+play_info.csv
+play_info_dataset.csv
+stats_pit_dataset.csv
+
